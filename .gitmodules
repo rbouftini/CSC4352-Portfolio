@@ -1,0 +1,3 @@
+[submodule "transfomerNLP"]
+	path = transfomerNLP
+	url = https://github.com/rbouftini/miniGPT.git
